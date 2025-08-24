@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "pirulen";
+  src: url("./assets/fonts/Pirulen.otf") format("opentype");
+}
+@font-face {
+  font-family: "clash";
+  src: url("./assets/fonts/ClashGrotesk-Regular.otf") format("opentype");
+}
