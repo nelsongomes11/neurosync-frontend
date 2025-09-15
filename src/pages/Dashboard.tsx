@@ -1,7 +1,7 @@
 import { Calendar } from "@/components/ui/calendar";
 import { useAuth } from "../hooks/useAuth";
 import { useTasks } from "@/hooks/useTasks";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 interface Task {
   id: number;
